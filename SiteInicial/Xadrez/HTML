@@ -1,0 +1,137 @@
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="estiloxadrez.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Chess</title>
+</head>
+
+<body>
+
+        <div id="titulo">
+            <h1>Chess</h1>
+        </div>
+        <div class="container">
+
+            <p style="width: 50px; height: 50px;"></p>
+            <p style="width: 100px; height: 50px ;">A</p>
+            <p style="width: 100px; height: 50px ;">B</p>
+            <p style="width: 100px; height: 50px ;">C</p>
+            <p style="width: 100px; height: 50px ;">D</p>
+            <p style="width: 100px; height: 50px ;">E</p>
+            <p style="width: 100px; height: 50px ;">F</p>
+            <p style="width: 100px; height: 50px ;">G</p>
+            <p style="width: 100px; height: 50px ;">H</p>
+            <p style="width: 50px; height: 50px;"></p>
+
+
+            <p>8</p>
+            <div id="A8"class="corclara"> <img src="imagens/pecasBrancas/TorreB.svg"  /> </div>
+            <div id="B8"class="corescura"> <img src="imagens/pecasBrancas/CavaloB.png"  /> </div>
+            <div id="C8" class="corclara"> <img src="imagens/pecasBrancas/BispoB.svg"  /> </div>
+            <div id="D8" class="corescura"> <img src="imagens/pecasBrancas/ReiB.svg"  /> </div>
+            <div id="E8" class="corclara"> <img src="imagens/pecasBrancas/RainhaB.svg"  /> </div>
+            <div id="F8" class="corescura"> <img src="imagens/pecasBrancas/BispoB.svg" /> </div>
+            <div id="G8" class="corclara"> <img src="imagens/pecasBrancas/CavaloB.png" /> </div>
+            <div id="H8" class="corescura"> <img src="imagens/pecasBrancas/TorreB.svg"  /> </div>
+            <p>8</p> 
+
+            <p>7</p>
+            <div id="A7" class="corescura"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="B7" class="corclara"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="C7" class="corescura"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="D7" class="corclara"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="E7" class="corescura"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="F7" class="corclara"> <img src="imagens/pecasBrancas/PeaoB.svg" /> </div>
+            <div id="G7" class="corescura"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <div id="H7" class="corclara"> <img src="imagens/pecasBrancas/PeaoB.svg"  /> </div>
+            <p>7</p>
+
+            <p>6</p>
+            <div id="A6" class="corclara"></div>
+            <div id="B6" class="corescura"></div>
+            <div id="C6" class="corclara"></div>
+            <div id="D6" class="corescura"></div>
+            <div id="E6" class="corclara"></div>
+            <div id="F6" class="corescura"></div>
+            <div id="G6" class="corclara"></div>
+            <div id="H6" class="corescura"></div>
+            <p>6</p>
+            
+
+            <p >5</p>
+            <div id="A5" class="corescura"></div>
+            <div id="B5" class="corclara"></div>
+            <div id="C5" class="corescura"></div>
+            <div id="D5" class="corclara"></div>
+            <div id="E5" class="corescura"></div>
+            <div id="F5" class="corclara"></div>
+            <div id="G5" class="corescura"></div>
+            <div id="H5" class="corclara"></div>
+            <p >5</p>
+           
+            <p>4</p>
+            <div id="A4" class="corclara"></div>
+            <div id="B4" class="corescura"></div>
+            <div id="C4" class="corclara"></div>
+            <div id="D4" class="corescura"></div>
+            <div id="E4" class="corclara"></div>
+            <div id="F4" class="corescura"></div>
+            <div id="G4" class="corclara"></div>
+            <div id="H4" class="corescura"></div>
+            <p>4</p>
+            
+            <p >3</p>
+            <div id="A3" class="corescura"></div>
+            <div id="B3" class="corclara"></div>
+            <div id="C3" class="corescura"></div>
+            <div id="D3" class="corclara"></div>
+            <div id="E3" class="corescura"></div>
+            <div id="F3" class="corclara"></div>
+            <div id="G3" class="corescura"></div>
+            <div id="H3" class="corclara"></div>
+            <p >3</p>
+            
+            <p>2</p>
+            <div id="A2" class="corclara"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="B2" class="corescura"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="C2" class="corclara"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="D2" class="corescura"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="E2" class="corclara"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="F2" class="corescura"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="G2" class="corclara"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <div id="H2" class="corescura"> <img src="imagens/pecasPretas/PeaoP.svg" /> </div>
+            <p>2</p>
+            
+
+            <p>1</p>
+            <div id="A1" class="corescura"> <img src="imagens/pecasPretas/TorreP.svg" /> </div>
+            <div id="B1" class="corclara"> <img src="imagens/pecasPretas/CavaloP.png" /> </div>
+            <div id="C1" class="corescura"> <img src="imagens/pecasPretas/BispoP.svg" /> </div>
+            <div id="D1" class="corclara"> <img src="imagens/pecasPretas/ReiP.svg" /> </div> 
+            <div id="E1" class="corescura"> <img src="imagens/pecasPretas/RainhaP.svg" /> </div>
+            <div id="F1" class="corclara"> <img src="imagens/pecasPretas/BispoP.svg" /> </div>
+            <div id="G1" class="corescura"> <img src="imagens/pecasPretas/CavaloP.png" /> </div>
+            <div id="H1" class="corclara"> <img src="imagens/pecasPretas/TorreP.svg" /> </div>
+            <p>1</p>
+
+            <p style="width: 50px; height: 50px;"></p>
+            <p style="width: 100px; height: 50px ;">A</p>
+            <p style="width: 100px; height: 50px ;">B</p>
+            <p style="width: 100px; height: 50px ;">C</p>
+            <p style="width: 100px; height: 50px ;">D</p>
+            <p style="width: 100px; height: 50px ;">E</p>
+            <p style="width: 100px; height: 50px ;">F</p>
+            <p style="width: 100px; height: 50px ;">G</p>
+            <p style="width: 100px; height: 50px ;">H</p>
+            <p style="width: 50px; height: 50px;"></p>
+
+            <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/">
+                <button type="button">Home</button>
+                </a>
+</body>
+
+</html>
