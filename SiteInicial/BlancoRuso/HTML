@@ -1,0 +1,137 @@
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="estilodosite.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Italiana&display=swap" rel="stylesheet">
+    <title>Dribble</title>
+</head>
+
+<body>
+    <div id="principal">
+
+        <div id="topo">
+
+            <div id="topoCima">
+
+                <strong>
+                    <p> Contact</p>
+                </strong>
+                <strong>
+                    <p> About</p>
+                </strong>
+                <strong>
+                    <p id="paragrafo"> All Colections</p>
+                </strong>
+
+            </div>
+
+            <div id="topoBaixo">
+                <img id="x" src="imagens/x.PNG">
+                <p id="frase"> ALL COLLECTIONS</p>
+
+                <p id="texto">Rachel Antonoff</p>
+
+                <div id="topoFotos">
+                    <img id="foto1" src="imagens/topoFoto1.PNG">
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="baixo">
+
+            <div id="baixoTopo">
+
+                <div id="baixoTopoEsquerda">
+                    <table>
+                        <tr>
+                            <th>YEAR</th>
+                            <th>COLLECTION</th>
+                        </tr>
+                        <tr>
+                            <td>2017</td>
+                            <td>Spring</td>
+                        </tr>
+                    </table>
+                    <p style="color: #b4d4db; font-weight: bold;">Theme</p>
+                    <p>Pastel</p>
+                    <p>Minimal</p>
+                    <p>Patterns</p>
+
+                </div>
+                <div id="baixoTopoDireita">
+                    <p style="font-size: 40px; font-family: 'Italiana'; font-weight: bold; margin-top: 196px;">Antonoff
+                        dreamt up a collection that celebrates femininity while still
+                        packing a punch.</p>
+                    <p>This time around, her infamous reproductive-system sweater of Fall 2015 was reimagined as bold,
+                        rainbow-color embroidery on a tee and jean jacket. Elsewhere,
+                        a black and white print featured nude figures posing atop pigs.
+                    </p>
+                </div>
+            </div>
+
+            <div id="corFotos1">
+                <img style="margin-left: 121px;margin-top: 161px;" src="imagens/fotobaixo2.jpg" />
+                <img style="margin-left: 121px;margin-top: 161px;" src="imagens/fotobaixo1.jpg" />
+            </div>
+
+            <div id="abaixoFotos1">
+                <p style="margin-bottom: 0px;color: #b4d4db; font-weight: bold; font-size: 20px;">PATTERNS</p>
+                <p style="font-size: 45px; font-weight: bold;width: 360px;margin-bottom: 8px;margin-top: 7;">Cute grapichs and clever antics aside</p>
+                <p>Antonoff is expanding her range, making her bread and butter pieces more unfussy and
+                    wearable than ever before.There's a full slate of crisp, white pieces with ruffles
+                    and tiers that will have mass appeal
+                </p>
+                <img  style="margin-left: 595px;margin-top: 375px;"  src="imagens/fotobaixo3.jpg" />
+               
+            </div>
+
+            <div id="corFotos2">
+                <img style="margin-top: 140px;" src="imagens/fotobaixo4.jpg" />
+
+                
+            </div>
+
+            <div id="abaixoFotos2">
+                <p style="margin-bottom: 0px; color: #b4d4db; font-weight: bold; font-size: 20px;">MINIMAL</p>
+                <p style="font-size: 45px; font-weight: bold;width: 360px;margin-top: 7px;margin-bottom: 8px;">Crisp, white pieces with ruffles</p>
+                <p>An army green boilersuit with a light sheen just might open Antonoff up a new demographic of shoppers. A point d´esprit black dress
+                    with a twee button and bow yoke proves that for all the sensibility this season, Antonoff's whimsy still abounds.
+                </p>
+                <img style="margin-top: 338px;" src="imagens/fotobaixo5.jpg" />
+            </div>
+            
+            <div id="corFotos3">
+                <img src="imagens/fotobaixo6.jpg" />
+            </div>
+
+            <div>
+                <img style="margin-top: 181px; margin-left: 794px;margin-bottom: 181px;" src="imagens/fotobaixo7.jpg" />
+            </div>
+            <div id="final">
+                <div id="finalEsquerda">
+                    <p>INSTAGRAM</p>
+                    <p>TWITTER</p>
+                    <p>FACEBOOK</p>
+                    <p id="finaltexto">2017, All rights reserved</p>
+                </div>
+                <div id="finalDireito">
+                    <p>TERMS AND CONDITIONS</p>
+                    <p>PRIVACY</p>
+                    <p>CONTACT</p>
+                    <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/">
+                        <button type="button">Home</button>
+                        </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+
+</html>
