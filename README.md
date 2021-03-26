@@ -11,4 +11,5 @@ Sites
      - Página de xadrez criada com finalidade de treinamento
 
 <h2>Link do Site</h2>
-http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/
+<a href='http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/' target=_blank> Rafael H Hirayama </a>
+
