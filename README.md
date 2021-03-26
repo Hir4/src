@@ -5,6 +5,6 @@
 
 Sites
  - Tela inicial com três opções de visualização
- - Currículo
- - Página copiada do designer Blanco Ruso
- - Página de xadrez criada com finalidade de treinamento
+   - Currículo
+   - Página copiada do designer Blanco Ruso
+   - Página de xadrez criada com finalidade de treinamento
