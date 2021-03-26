@@ -1,7 +1,7 @@
 # src
-DSM - Protótipo Navegável e Wireframe
+<h1>DSM - Protótipo Navegável e Wireframe</h1>
 
-Rafael Hideki Hirayama
+<h2>Rafael Hideki Hirayama</h2>
 
 Sites
  - Tela inicial com três opções de visualização
