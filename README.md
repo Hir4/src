@@ -8,7 +8,7 @@ Sites
      - Currículo 
    - Secundário
      - Página copiada do designer Blanco Ruso
-     - Página de xadrez criada com finalidade de treinamento
+     - Página de xadrez criada com finalidade de treinamento (em construção...)
 
 <h2>Link do Site</h2>
 <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/"> Rafael H Hirayama </a>
