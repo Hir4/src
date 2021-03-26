@@ -1,0 +1,135 @@
+a:link, a:visited{
+    text-decoration: none;
+}
+body{
+    background-color: #6896e4;
+    background-image: linear-gradient(to top, #6896e4, rgb(231, 231, 231));
+    font-family: 'Hind';
+}
+#principal{
+    display: block;
+    width: 900px;
+    height: 1169px;
+    margin: 5px auto;
+    box-shadow: 2px 2px 100px #000000;
+    background-color: white;
+}
+#esquerda{
+    width: 300px;
+    height: 1169px;
+    float: left;
+    background-color:#9ea2a5 ;
+    background-image: linear-gradient(to bottom, #6896e4, #4c76bd);
+}
+#foto{
+    position: relative;
+    top: 50px;
+    left: 20px;
+    width: 250px;
+    height: 250px;
+    border: solid 5px #4e79c5;
+    border-radius: 50%;
+}
+#paragrafo{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: left;
+    color: white;
+}
+.icones{
+    width: 35px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    margin: 8px;
+}
+#idioma{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: left;
+    color: white;
+}
+.atividades{
+    font-size: 16px;
+    color: white;
+    position: relative;
+    height: 15px;
+    top: 50px;
+    left: 40px;
+}
+#programa{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: left;
+    color: white;
+}
+#linguagem{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 27px;
+    text-align: left;
+    color: white;
+}
+#direita{
+    width: 600px;
+    height: 1169px;
+    float: right;
+    background-color:#9ea2a5 ;
+    background-image: linear-gradient(to bottom, #f5f5f5, #dadada);
+}
+#nome{
+    position: relative;
+    width: 500px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    left: 40px;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: left;
+    color: #4e79c5;
+}
+.funcao{
+    position: relative;
+    left: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+    color: #5a5a5a;
+}
+.semititulo{
+    background-image:linear-gradient(to right,#6896e4,#4c76bd);
+    font-weight: bold;
+    font-size: 27px;
+    color:white;
+    width: 235px;
+    padding-left: 40px;
+}
+.atividades2{
+    font-size: 16px;
+    color: white;
+    position: relative;
+    width: 500px;
+    color: #5a5a5a;
+    left: 40px;
+}
+button{
+    background: transparent;
+    outline: none;
+    border: solid 2px white;
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
