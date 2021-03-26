@@ -1,0 +1,26 @@
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="stylelink.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hind" />
+    <title>Rafael H Hirayama</title>
+</head>
+
+<body>
+    <div id="efeito">
+        <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/curriculo7/index.html" >
+        <button type="button">Currículo</button>
+        </a>
+        <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/modeloSite/index.html" >
+        <button type="button">Blanco Ruso</button>
+        </a>
+        <a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/xadrez/xadrez.html" >
+        <button type="button">Xadrez</button>
+        </a>
+    </div>
+
+</body>
+
+</html>
