@@ -1,30 +1,30 @@
 body{
-    background-image: url("imagem/vaporwave.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow: hidden;
+    background-image: url("imagem/vaporwave.jpg"); //imagem de plano de fundo
+    background-repeat: no-repeat; //nao repetir a imagem 
+    background-size: cover; //preencher toda a pág
+    overflow: hidden; // esconder um elemento
 }
 #efeito{
-    position: absolute;
-    width: 50%;
-    height: 100%;
-    background: rgba(86,86,86,0.3);
-    backdrop-filter: blur(10px);
-    top: 0px;
-    left: 0px;
-    display: flex;
-    flex-flow: row;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-around;
+    position: absolute; //posição 
+    width: 50%; //comprimento
+    height: 100%; //largura
+    background: rgba(86,86,86,0.3); //cor plano de fundo
+    backdrop-filter: blur(10px); //filtro 
+    top: 0px; //posição
+    left: 0px; //posição
+    display: flex; //flexbox
+    flex-flow: row; //em linha
+    flex-wrap: wrap; //força o elemento de acordo com o especificado (em linha)
+    align-items: center; //alinha os elementos
+    justify-content: space-around; //espaçamento entre os elementos
 }
 button{
-    background: transparent;
-    outline: none;
-    border: solid 2px white;
-    border-radius: 20px;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-    cursor: pointer;
+    background: transparent; //fundo transparente
+    outline: none; //sem contorno
+    border: solid 2px white; //borda branca
+    border-radius: 20px; //borda arredondada
+    color: white; //cor branca
+    font-size: 25px; //tamanho da fonte
+    font-weight: bold; //peso da fonte
+    cursor: pointer; //tipo do cursor
 }
