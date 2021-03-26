@@ -1,4 +1,3 @@
-# src
 <h1>DSM - Protótipo Navegável e Wireframe</h1>
 
 <h2>Rafael Hideki Hirayama</h2>
