@@ -5,8 +5,8 @@
 
 Sites
  - Tela inicial com três opções de visualização
-  - Principal 
-   - Currículo 
-  - Secundário
-   - Página copiada do designer Blanco Ruso
-   - Página de xadrez criada com finalidade de treinamento
+   - Principal 
+     - Currículo 
+   - Secundário
+     - Página copiada do designer Blanco Ruso
+     - Página de xadrez criada com finalidade de treinamento
