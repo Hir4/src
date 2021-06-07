@@ -1,20 +1,19 @@
-<h1>DSM - Protótipo Navegável e Wireframe</h1>
+#DSM - Protótipo Navegável e Wireframe
 
-<h2>Rafael Hideki Hirayama</h2>
+##Rafael Hideki Hirayama
 
-Sites
- - Tela inicial com três opções de visualização
-   - Principal 
-     - Currículo 
-   - Secundário
-     - Página copiada do designer Blanco Ruso
-     - Página de xadrez criada com finalidade de treinamento (em construção...)
+###Sites
+ * Tela inicial com três opções de visualização
+   * Principal 
+     * Currículo 
+   * Secundário
+     * Página copiada do designer Blanco Ruso com finalidade de treinamento
+     * Página de xadrez criada com finalidade de treinamento (em construção...)
 
-<h2>Link do Site</h2>
-<a href="http://ubuntu.alphaedtech.org.br/aspirante/rafaelhideki/"> Rafael H Hirayama </a>
+##Link do Figma
+https://www.figma.com/file/7zP1Gqnu35rdRKG5zGPVPT/Untitled?node-id=0%3A1 - automatic!
+[Wireframe](https://www.figma.com/file/7zP1Gqnu35rdRKG5zGPVPT/Untitled?node-id=0%3A1)
 
-<h2>Link do Figma</h2>
-<a href="https://www.figma.com/file/7zP1Gqnu35rdRKG5zGPVPT/Untitled?node-id=0%3A1"> Wireframe </a>
-
-<h2>Video Youtube</h2>
-<a href="https://www.youtube.com/watch?v=_FbM5QgYT7Q"> Explicando o projeto </a>
+##Video Youtube
+https://www.youtube.com/watch?v=_FbM5QgYT7Q - automatic!
+[Video](https://www.youtube.com/watch?v=_FbM5QgYT7Q)
