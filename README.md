@@ -3,7 +3,7 @@
 ## Rafael Hideki Hirayama
 
 ### Sites
-**Tela inicial sofreu alterações nos botões por conta de teste do framework**
+**Tela inicial sofreu alterações nos botões por conta do framework**
  * Tela inicial com três opções de visualização
    * Principal
      * Currículo 
