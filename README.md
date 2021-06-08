@@ -3,8 +3,9 @@
 ## Rafael Hideki Hirayama
 
 ### Sites
+**Tela inicial sofreu alterações nos botões por conta de teste do framework**
  * Tela inicial com três opções de visualização
-   * Principal (mudanças feitas nos botões em relação a primeira entrega)
+   * Principal
      * Currículo 
    * Secundário
      * Página copiada do designer Blanco Ruso com finalidade de treinamento
