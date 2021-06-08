@@ -7,7 +7,7 @@
  * Tela inicial com três opções de visualização
    * Principal
      * Currículo 
-   * Secundário
+   * Outras
      * Página copiada do designer Blanco Ruso com finalidade de treinamento
      * Página de xadrez criada com finalidade de treinamento (em construção...)
 
