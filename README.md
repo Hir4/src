@@ -4,7 +4,7 @@
 
 ### Sites
  * Tela inicial com três opções de visualização
-   * Principal 
+   * Principal (mudanças feitas nos botões em relação a primeira entrega)
      * Currículo 
    * Secundário
      * Página copiada do designer Blanco Ruso com finalidade de treinamento
