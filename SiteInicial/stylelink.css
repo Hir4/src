@@ -1,0 +1,22 @@
+body{
+    background-image: url("./imagem/vaporwave.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+#efeito{
+    width: 50%;
+    height: 100%;
+    background: rgba(86,86,86,0.3);
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+@media (max-width: 425px){
+    #efeito{
+        flex-flow: column;
+    }
+}
