@@ -8,7 +8,7 @@
    * Principal
      * Currículo 
    * Outras
-     * Página de cronômetro criada com finalidade de treinamento
+     * Página de cronômetro criada com finalidade de treinamento (js)
      * Página de xadrez criada com finalidade de treinamento (em construção...)
 
 ## Link do Figma
