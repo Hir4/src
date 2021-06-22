@@ -1,0 +1,105 @@
+body{
+    background-image: linear-gradient(to bottom, #838128,#90921c);
+    font-family: 'Hind';
+}
+header{
+    color: white;
+    text-align: center;
+}
+#principal{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.celulares{
+    margin: auto;
+    width: 400px;
+    height: 650px;
+    background-color: rgb(41, 41, 41);
+    box-shadow: 20px 20px 100px rgb(12, 12, 12);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.resp{
+    position: relative;
+    top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 80px;
+    color: #90921c;
+}
+.tempo{
+    width: 87px;
+    height: 128px;
+    cursor: pointer;
+    background-color: rgb(119, 119, 119);
+    box-shadow: 20px 20px 100px rgb(59, 59, 59);
+    border-radius: 10px;
+    color: #90921c;
+    font-size: 80px;
+    text-align: center;
+}
+.ds{
+    position: relative;
+    top: 60px;
+    cursor: pointer;
+    width: 55px;
+    height: 70px;
+    background-color: rgb(119, 119, 119);
+    box-shadow: 20px 20px 100px rgb(59, 59, 59);
+    border-radius: 10px;
+    color: #90921c;
+    font-size: 50px;
+    text-align: center;
+}
+#botaoMaisMenos{
+    position: relative;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.escolherNum{
+    cursor: pointer;
+    width: 100%;
+    background: rgb(201, 201, 201);
+    outline: none;
+    border: solid 2px white;
+    border-radius: 10px;
+    color: rgb(41, 41, 41);
+    font-size: 30px;
+    margin: 10px;
+}
+.clicaveis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.botoes{
+    cursor: pointer;
+    background: rgb(201, 201, 201);
+    outline: none;
+    border: solid 2px white;
+    border-radius: 10px;
+    color: rgb(41, 41, 41);
+    font-size: 30px;
+    margin: 10px;
+}
+.back-button{
+    margin: 5px auto;
+}
+.back-button button{
+    background: transparent;
+    outline: none;
+    border: solid 2px white;
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
