@@ -8,7 +8,7 @@
    * Principal
      * Currículo 
    * Outras
-     * Página copiada do designer Blanco Ruso com finalidade de treinamento
+     * Página de cronômetro criada com finalidade de treinamento
      * Página de xadrez criada com finalidade de treinamento (em construção...)
 
 ## Link do Figma
