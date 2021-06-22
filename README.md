@@ -15,4 +15,4 @@
 [Wireframe](https://www.figma.com/file/7zP1Gqnu35rdRKG5zGPVPT/Untitled?node-id=0%3A1)
 
 ## Video Youtube
-[Video](https://www.youtube.com/watch?v=L84f4iM4sjM)
+[Video](https://www.youtube.com/watch?v=qKzf8cmt9UU)
