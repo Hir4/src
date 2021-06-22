@@ -147,10 +147,6 @@ body{
     height: 1251px;
     }
     #photo{
-<<<<<<< HEAD
-        src: url("assets/image/fael.jpeg");
-=======
->>>>>>> f8f35e1478941efe43def93c7cd80ba17402ce0b
         max-width: 150px;
         height: 150px;
         border: solid 3px #4e79c5;
